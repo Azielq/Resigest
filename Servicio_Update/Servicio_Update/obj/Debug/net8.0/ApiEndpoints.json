@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "Servicio_Update.Controllers.CreditoController",
+    "Method": "ActualizarCredito",
+    "RelativePath": "api/Credito/ActualizarCredito/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "creditoActualizado",
+        "Type": "Servicio_Update.Models.Class_Credito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Update.Controllers.HabitacionesController",
+    "Method": "ActualizarHabitacion",
+    "RelativePath": "api/Habitaciones/ActualizarHabitacion/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habitacionActualizada",
+        "Type": "Servicio_Update.Models.Class_Habitaciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Update.Controllers.MovimientosCreditoController",
+    "Method": "ActualizarMovimiento",
+    "RelativePath": "api/MovimientosCredito/ActualizarMovimiento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "movimientoActualizado",
+        "Type": "Servicio_Update.Models.Class_MovimientosCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Update.Controllers.OcupacionesController",
+    "Method": "ActualizarOcupacion",
+    "RelativePath": "api/Ocupaciones/ActualizarOcupacion/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ocupacionActualizada",
+        "Type": "Servicio_Update.Models.Class_Ocupaciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Update.Controllers.PersonasController",
+    "Method": "ActualizarPersona",
+    "RelativePath": "api/Personas/ActualizarPersona/{cedula}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "personaActualizada",
+        "Type": "Servicio_Update.Models.Class_Usuarios",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Update.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Servicio_Update.WeatherForecast, Servicio_Update, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

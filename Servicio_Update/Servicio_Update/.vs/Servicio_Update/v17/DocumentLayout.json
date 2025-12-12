@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\controllers\\ocupacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:controllers\\ocupacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\controllers\\movimientocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:controllers\\movimientocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\class_movimientoscredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\class_movimientoscredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\class_credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\class_credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\class_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\class_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\class_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\class_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_update\\servicio_update\\models\\class_ocupaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC4718A-FCBA-4B80-AB12-9CFEF57393E6}|Servicio_Update.csproj|solutionrelative:models\\class_ocupaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class_MovimientosCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_MovimientosCredito.cs",
+              "RelativeDocumentMoniker": "Models\\Class_MovimientosCredito.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_MovimientosCredito.cs",
+              "RelativeToolTip": "Models\\Class_MovimientosCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:01:07.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoCreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\MovimientoCreditoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovimientoCreditoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\MovimientoCreditoController.cs",
+              "RelativeToolTip": "Controllers\\MovimientoCreditoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:54:51.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T06:59:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class_Credito.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Credito.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Credito.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Credito.cs",
+              "RelativeToolTip": "Models\\Class_Credito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T04:18:50.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\CreditoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\CreditoController.cs",
+              "RelativeToolTip": "Controllers\\CreditoController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:48:12.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class_Ocupaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Ocupaciones.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Ocupaciones.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Ocupaciones.cs",
+              "RelativeToolTip": "Models\\Class_Ocupaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:07:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OcupacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\OcupacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OcupacionesController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\OcupacionesController.cs",
+              "RelativeToolTip": "Controllers\\OcupacionesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:06:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class_Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Habitaciones.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Habitaciones.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Habitaciones.cs",
+              "RelativeToolTip": "Models\\Class_Habitaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:00:44.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:59:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:50:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Usuarios.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Usuarios.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\Class_Usuarios.cs",
+              "RelativeToolTip": "Models\\Class_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:46:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbLoginWsJwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbLoginWsJwtContext.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeToolTip": "Models\\DbLoginWsJwtContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:47:37.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Update\\Servicio_Update\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:53:49.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

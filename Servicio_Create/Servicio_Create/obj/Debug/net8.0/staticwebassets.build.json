@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WQBpXnObJf92ueRKXnjC7YSV6YUWrWOdVkjDQmMIwGA=",
+  "Source": "Servicio_Create",
+  "BasePath": "_content/Servicio_Create",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

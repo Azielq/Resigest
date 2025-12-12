@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "Servicio_Create.Controllers.CreditoController",
+    "Method": "AgregarCredito",
+    "RelativePath": "api/Credito/AgregarCredito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credito",
+        "Type": "Servicio_Create.Models.Class_Credito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Create.Controllers.HabitacionesController",
+    "Method": "AgregarHabitacion",
+    "RelativePath": "api/Habitaciones/AgregarHabitacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Habitacion",
+        "Type": "Servicio_Create.Models.Class_Habitaciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Create.Controllers.MovimientoCreditoController",
+    "Method": "AgregarMovCredito",
+    "RelativePath": "api/MovimientoCredito/AgregarMovCredito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Movcredito",
+        "Type": "Servicio_Create.Models.Class_MovimientosCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Create.Controllers.OcupacionController",
+    "Method": "AgregarOcupacion",
+    "RelativePath": "api/Ocupacion/AgregarOcupacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ocupacion",
+        "Type": "Servicio_Create.Models.Class_Ocupaciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Create.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Servicio_Create.WeatherForecast, Servicio_Create, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

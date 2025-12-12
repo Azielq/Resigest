@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "Servicio_Delete.Controllers.CreditoController",
+    "Method": "EliminarCredito",
+    "RelativePath": "api/Credito/EliminarCredito/{credito_ID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credito_ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Delete.Controllers.HabitacionesController",
+    "Method": "EliminarHabitacion",
+    "RelativePath": "api/Habitaciones/EliminarHabitacion/{Habitacion_ID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Habitacion_ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Delete.Controllers.MovimientoCreditoController",
+    "Method": "EliminarMovCredito",
+    "RelativePath": "api/MovimientoCredito/EliminarMovCredito/{movimiento_ID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimiento_ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Delete.Controllers.OcupacionController",
+    "Method": "EliminarOcupacion",
+    "RelativePath": "api/Ocupacion/EliminarOcupacion/{ocupacion_ID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ocupacion_ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio_Delete.Controllers.UsuarioController",
+    "Method": "EliminarCredito",
+    "RelativePath": "api/Usuario/EliminarUsuario/{Cedula_P}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Cedula_P",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

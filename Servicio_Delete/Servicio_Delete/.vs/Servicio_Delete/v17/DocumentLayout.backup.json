@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\models\\class_ocupaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:models\\class_ocupaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\controllers\\movimientocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:controllers\\movimientocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\models\\class_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:models\\class_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_delete\\servicio_delete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE54FCC2-3C02-4122-815C-054E05FD5154}|Servicio_Delete.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class_Ocupaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\Class_Ocupaciones.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Ocupaciones.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\Class_Ocupaciones.cs",
+              "RelativeToolTip": "Models\\Class_Ocupaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:18:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoCreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\MovimientoCreditoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovimientoCreditoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\MovimientoCreditoController.cs",
+              "RelativeToolTip": "Controllers\\MovimientoCreditoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:08:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbLoginWsJwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbLoginWsJwtContext.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeToolTip": "Models\\DbLoginWsJwtContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:55:25.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:51:38.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\CreditoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Controllers\\CreditoController.cs",
+              "RelativeToolTip": "Controllers\\CreditoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:27:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\Class_Usuarios.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Usuarios.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Models\\Class_Usuarios.cs",
+              "RelativeToolTip": "Models\\Class_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:51:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:45:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Delete\\Servicio_Delete\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T02:44:49.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

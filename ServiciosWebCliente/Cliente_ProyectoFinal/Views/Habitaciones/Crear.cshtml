@@ -1,0 +1,56 @@
+﻿@model Cliente_ProyectoFinal.Models.Habitaciones.Class_Habitaciones
+
+@{
+    ViewData["Title"] = "Crear Habitacion";
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/style_Admin.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" /> <!-- Si usás Bootstrap -->
+</head>
+<body>
+    <div class="form-wrapper">
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Mostrar resumen de errores -->
+@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+<br />
+
+<br />
+
+<form method="post">
+    <div class="form-group">
+        <label for="numero">numero:</label>
+        <input type="text" class="form-control" id="numero" name="numero" required value="@Model?.numero" />
+        @Html.ValidationMessageFor(m => m.numero, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+
+
+    <div class="form-group">
+        <label for="tipo_ID">tipo_ID:</label>
+        <input type="number" class="form-control" id="tipo_ID" name="tipo_ID" value="@Model?.tipo_ID" />
+        @Html.ValidationMessageFor(m => m.tipo_ID, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+
+    
+
+    <input type="hidden" name="estado" value="Disponible" />
+
+
+
+            <button type="submit" class="btn btn-success">Agregar</button>
+    <a href="@Url.Action("Index", "Habitaciones")" class="btn btn-secondary">Cancelar</a>
+</form>
+    </div>
+
+</body>
+</html>

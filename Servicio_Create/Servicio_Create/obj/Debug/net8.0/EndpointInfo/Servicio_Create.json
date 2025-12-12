@@ -1,0 +1,330 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Servicio_Create",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Credito/AgregarCredito": {
+      "post": {
+        "tags": [
+          "Credito"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Credito"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Credito"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Credito"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Habitaciones/AgregarHabitacion": {
+      "post": {
+        "tags": [
+          "Habitaciones"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Habitaciones"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Habitaciones"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Habitaciones"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MovimientoCredito/AgregarMovCredito": {
+      "post": {
+        "tags": [
+          "MovimientoCredito"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_MovimientosCredito"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_MovimientosCredito"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_MovimientosCredito"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Ocupacion/AgregarOcupacion": {
+      "post": {
+        "tags": [
+          "Ocupacion"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Ocupaciones"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Ocupaciones"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Class_Ocupaciones"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Class_Credito": {
+        "type": "object",
+        "properties": {
+          "credito_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cedula_P": {
+            "type": "string",
+            "nullable": true
+          },
+          "monto_maximo": {
+            "type": "number",
+            "format": "double"
+          },
+          "saldo_actual": {
+            "type": "number",
+            "format": "double"
+          },
+          "fecha_creacion": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "fecha_vencimiento": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Class_Habitaciones": {
+        "type": "object",
+        "properties": {
+          "habitacion_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numero": {
+            "type": "string",
+            "nullable": true
+          },
+          "tipo_ID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Class_MovimientosCredito": {
+        "type": "object",
+        "properties": {
+          "movimiento_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "credito_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipo_movimiento": {
+            "type": "string",
+            "nullable": true
+          },
+          "monto": {
+            "type": "number",
+            "format": "double"
+          },
+          "fecha_movimiento": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "descripcion": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Class_Ocupaciones": {
+        "type": "object",
+        "properties": {
+          "ocupacion_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "habitacion_ID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cedula_P": {
+            "type": "string",
+            "nullable": true
+          },
+          "fecha_entrada": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "fecha_salida": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "uso_credito": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "credito_ID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

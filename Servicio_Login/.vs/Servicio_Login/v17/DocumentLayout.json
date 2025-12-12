@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\models\\login\\classuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\models\\login\\classuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\models\\class_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\models\\class_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\encripta\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\encripta\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_login\\servicio_login\\models\\login\\classlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44564211-686D-4AE8-86AF-8AF492F551CB}|Servicio_Login\\Servicio_Login.csproj|solutionrelative:servicio_login\\models\\login\\classlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Program.cs",
+              "RelativeToolTip": "Servicio_Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:09:16.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicio_Login\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\appsettings.json",
+              "RelativeToolTip": "Servicio_Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T01:09:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbLoginWsJwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Models\\DbLoginWsJwtContext.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeToolTip": "Servicio_Login\\Models\\DbLoginWsJwtContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:06:41.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Servicio_Login\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:05:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Encripta\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Encripta\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Encripta\\Utilidades.cs",
+              "RelativeToolTip": "Servicio_Login\\Encripta\\Utilidades.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:03:07.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Class_Usuario.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Models\\Class_Usuario.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Class_Usuario.cs",
+              "RelativeToolTip": "Servicio_Login\\Models\\Class_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:02:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classUser.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Login\\classUser.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Models\\Login\\classUser.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Login\\classUser.cs",
+              "RelativeToolTip": "Servicio_Login\\Models\\Login\\classUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:59:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "classLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Login\\classLogin.cs",
+              "RelativeDocumentMoniker": "Servicio_Login\\Models\\Login\\classLogin.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Login\\Servicio_Login\\Models\\Login\\classLogin.cs",
+              "RelativeToolTip": "Servicio_Login\\Models\\Login\\classLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:58:19.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Servicio_Delete",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Credito/EliminarCredito/{credito_ID}": {
+      "delete": {
+        "tags": [
+          "Credito"
+        ],
+        "parameters": [
+          {
+            "name": "credito_ID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Habitaciones/EliminarHabitacion/{Habitacion_ID}": {
+      "delete": {
+        "tags": [
+          "Habitaciones"
+        ],
+        "parameters": [
+          {
+            "name": "Habitacion_ID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/MovimientoCredito/EliminarMovCredito/{movimiento_ID}": {
+      "delete": {
+        "tags": [
+          "MovimientoCredito"
+        ],
+        "parameters": [
+          {
+            "name": "movimiento_ID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Ocupacion/EliminarOcupacion/{ocupacion_ID}": {
+      "delete": {
+        "tags": [
+          "Ocupacion"
+        ],
+        "parameters": [
+          {
+            "name": "ocupacion_ID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Usuario/EliminarUsuario/{Cedula_P}": {
+      "delete": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "Cedula_P",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

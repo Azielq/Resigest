@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\ocupacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\ocupacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\dbloginwsjwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\movimientocreditoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\movimientocreditoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\ocupacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\ocupacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\movimientoscredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\movimientoscredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\habitacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\habitacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\tiposhabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\tiposhabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\tiposhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\tiposhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|c:\\users\\fabia\\onedrive\\escritorio\\ulacit\\cuatri vii\\servicios web\\proyectofinal\\servicio_read\\servicio_read\\servicio_read\\servicio_read\\models\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A73D2-C85E-45CF-A87D-C0E458110ECF}|Servicio_Read.csproj|solutionrelative:models\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 655,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T02:31:20.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Habitacione.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Habitacione.cs",
+              "RelativeDocumentMoniker": "Models\\Habitacione.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Habitacione.cs",
+              "RelativeToolTip": "Models\\Habitacione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:11:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:43:36.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T22:11:50.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TiposHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\TiposHabitacion.cs",
+              "RelativeDocumentMoniker": "Models\\TiposHabitacion.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\TiposHabitacion.cs",
+              "RelativeToolTip": "Models\\TiposHabitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:14:47.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbLoginWsJwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbLoginWsJwtContext.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\DbLoginWsJwtContext.cs",
+              "RelativeToolTip": "Models\\DbLoginWsJwtContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:09:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TiposHabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\TiposHabitacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TiposHabitacionesController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\TiposHabitacionesController.cs",
+              "RelativeToolTip": "Controllers\\TiposHabitacionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:21:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:09:28.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ocupacione.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Ocupacione.cs",
+              "RelativeDocumentMoniker": "Models\\Ocupacione.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Ocupacione.cs",
+              "RelativeToolTip": "Models\\Ocupacione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:52:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimientoCreditosController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\MovimientoCreditosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovimientoCreditosController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\MovimientoCreditosController.cs",
+              "RelativeToolTip": "Controllers\\MovimientoCreditosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:14:21.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\HabitacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\HabitacionController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:13:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OcupacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\OcupacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OcupacionController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\OcupacionController.cs",
+              "RelativeToolTip": "Controllers\\OcupacionController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:17:49.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovimientosCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\MovimientosCredito.cs",
+              "RelativeDocumentMoniker": "Models\\MovimientosCredito.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\MovimientosCredito.cs",
+              "RelativeToolTip": "Models\\MovimientosCredito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:11:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\CreditoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditoController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\CreditoController.cs",
+              "RelativeToolTip": "Controllers\\CreditoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:12:36.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:20:49.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:14:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Credito.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Credito.cs",
+              "RelativeDocumentMoniker": "Models\\Credito.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Credito.cs",
+              "RelativeToolTip": "Models\\Credito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:11:20.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:57:21.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Login\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Login\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Login\\Usuario.cs",
+              "RelativeToolTip": "Models\\Login\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:22:10.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login\\Login.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Models\\Login\\Login.cs",
+              "RelativeToolTip": "Models\\Login\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:21:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fabia\\OneDrive\\Escritorio\\ULACIT\\Cuatri VII\\Servicios Web\\ProyectoFinal\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Servicio_Read\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:16:03.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

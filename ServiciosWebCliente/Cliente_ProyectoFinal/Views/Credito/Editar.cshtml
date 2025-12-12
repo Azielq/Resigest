@@ -1,0 +1,82 @@
+﻿@model Cliente_ProyectoFinal.Models.Credito.Class_Credito
+
+@{
+    ViewData["Title"] = "Editar Credito";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/style_Admin.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" /> <!-- Si usás Bootstrap -->
+</head>
+<body>
+    <div class="form-wrapper">
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Mostrar resumen de errores -->
+@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+<br />
+
+<br />
+
+<form method="post">
+    <!-- Enviar el ID oculto -->
+    <input type="hidden" asp-for="credito_ID" />
+
+    <div class="form-group">
+        <label for="Cedula_P">Cédula:</label>
+        <input asp-for="Cedula_P" class="form-control" />
+        @Html.ValidationMessageFor(m => m.Cedula_P, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label for="monto_maximo">Monto Máximo:</label>
+        <input asp-for="monto_maximo" type="number" class="form-control" step="0.01" />
+        @Html.ValidationMessageFor(m => m.monto_maximo, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label for="saldo_actual">Saldo Actual:</label>
+        <input asp-for="saldo_actual" type="number" class="form-control" step="0.01" />
+        @Html.ValidationMessageFor(m => m.saldo_actual, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <div class="form-group">
+        <!-- fecha_creacion como campo oculto -->
+        <input type="hidden" asp-for="fecha_creacion" />
+        @Html.ValidationMessageFor(m => m.fecha_creacion, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label for="fecha_vencimiento">Fecha de Vencimiento:</label>
+        <input asp-for="fecha_vencimiento" type="date" class="form-control" />
+        @Html.ValidationMessageFor(m => m.fecha_vencimiento, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label for="estado">Estado:</label>
+        <select asp-for="estado" class="form-control">
+            <option value="Activo" selected="@("Activo" == Model.estado)">Activo</option>
+            <option value="Cancelado" selected="@("Cancelado" == Model.estado)">Cancelado</option>
+            <option value="Vencido" selected="@("Vencido" == Model.estado)">Vencido</option>
+        </select>
+        @Html.ValidationMessageFor(m => m.estado, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+            <button type="submit" class="btn btn-success">Actualizar</button>
+    <a href="@Url.Action("Index", "Credito")" class="btn btn-secondary">Cancelar</a>
+</form>
+    </div>
+</body>
+</html>
